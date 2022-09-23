@@ -58,3 +58,9 @@ Art/
 # Nuget packages
 Tools/ShaderBuildCommand/packages/
 **/ThirdParty/OpenSource/hlslparser/Ext/ShaderTranslator/packages/
+
+*.pdb
+
+Common_3/Tools/ForgeShadingLanguage/__pycache__/
+
+*.pyc
